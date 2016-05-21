@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BaseTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/default_title_height</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/large_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <style name="Title" parent="BaseTitle">
+
+    </style>
+
+    <style name="Content">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:padding">@dimen/medium_dimen</item>
+        <item name="android:textSize">@dimen/small_text</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Image">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/default_title_height</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>
