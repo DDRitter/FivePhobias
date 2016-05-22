@@ -1,14 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Five Phobias</string>
-    <string name="phobia_0">Crometofobia</string>
-    <string name="phobia_1">Efebifobia</string>
-    <string name="phobia_2">Hipopotomonstrosesquipedaliofobia</string>
-    <string name="phobia_3">Optofobia</string>
-    <string name="phobia_4">Sofofobia</string>
-    <string name="content_text_0">También llamada crematofobia. Es el miedo al dinero y valores de capital. Los expertos señalan que esta fobia no es algo pasajero, sino persistente (e injustificada) en quienes la padecen. Por otro lado está la aurofobia, que es el miedo al oro.</string>
-    <string name="content_text_1">Miedo a los adolescentes. Miedo irracional, pánico o histeria, habitualmente a través de los medios de comunicación, relacionado con cualquier cosa que tenga que ver con el comportamiento o la emancipación social de los adolescentes menores de edad (basado en la creencia de que ese comportamiento es más apropiado para los adultos).</string>
-    <string name="content_text_2">Miedo a las palabras largas. Esta fobia se caracteriza por la aversión o nerviosismo en el momento en el cual la persona se involucra en conversaciones donde se usan palabras largas o poco frecuentes. El trastorno es causado por el miedo a pronunciar incorrectamente la palabra en cuestión, debido a que esto representaría para el fóbico la posibilidad de quedar expuesto al ridículo, de verse en desventaja, ser considerado alguien de cultura inferior o poca inteligencia frente a sus pares. A menudo esta fobia viene acompañada de timidez social.
-</string>
-    <string name="content_text_3">Miedo a abrir los ojos. Los ojos reúnen algunas otras fobias como la Omatofobia (miedo a los ojos) o la Fotofobia (miedo a la luz por temor a que afecte a la vista).</string>
-    <string name="content_text_4">Temor a saber o adquirir nuevos conocimientos. Un sofofóbico nunca descargaría esta aplicación.</string>
+    <string name="phobia_0">Chrometophobia</string>
+    <string name="phobia_1">Ephebiphobia</string>
+    <string name="phobia_2">Hippopotomonstrosesquippedaliophobia</string>
+    <string name="phobia_3">Optophobia</string>
+    <string name="phobia_4">Sophophobia</string>
+    <string name="content_text_0">Also called Chrematophobia. It is the fear of money and capital
+                  values. Experts say that this phobia is not something temporary, but persistent
+                  (and unjustified) in sufferers. Another related phobia the Aurophobia, which is
+                  the fear of gold.</string>
+    <string name="content_text_1">Fear of teenagers. Irrational fear, panic or hysteria, usually
+                  through the media, related to anything that has to do with behavior or social
+                  emancipation of underage adolescents (based on the belief that such behavior is
+                  more appropriate for grown ups).</string>
+    <string name="content_text_2">Fear of long words. This phobia is characterized by aversion
+                  or nervousness when the person engages in conversations where long or uncommon
+                  words are used. The disorder is caused by fear of mispronouncing the word in
+                  question, because this would represent for the phobic the possibility of being
+                  exposed to ridicule, of being at a disadvantage, of being considered someone of
+                  inferior culture or low intelligence against their peers. Often this is
+                  accompanied by social phobia shyness.</string>
+    <string name="content_text_3">Fear to open the eyes. Eyes share some other phobias like
+                  Omatofobia (fear of seeing eyes) or Photophobia (fear of light for fear of
+                  affecting the view).</string>
+    <string name="content_text_4">It's the fear to acquire new knowledge. A sophophobic person
+                  would never download this application.</string>
+    <string name="image_description_0">A lot of money bills</string>
+    <string name="image_description_1">A group of teenagers</string>
+    <string name="image_description_2">Random words</string>
+    <string name="image_description_3">Eyes of veiled woman</string>
+    <string name="image_description_4">Opened dictionary</string>
+    <string name="background_description">Dark graphite slate</string>
 </resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cinco Fobias</string>
+    <string name="phobia_0">Crometofobia</string>
+    <string name="phobia_1">Efebifobia</string>
+    <string name="phobia_2">Hipopotomonstrosesquipedaliofobia</string>
+    <string name="phobia_3">Optofobia</string>
+    <string name="phobia_4">Sofofobia</string>
+    <string name="content_text_0">También llamada Crematofobia. Es el miedo al dinero y valores de
+                  capital. Los expertos señalan que esta fobia no es algo pasajero, sino persistente
+                  (e injustificada) en quienes la padecen. Por otro lado está la Aurofobia, que es
+                  el miedo al oro.</string>
+    <string name="content_text_1">Miedo a los adolescentes. Miedo irracional, pánico o histeria,
+                  habitualmente a través de los medios de comunicación, relacionado con cualquier
+                  cosa que tenga que ver con el comportamiento o la emancipación social de los
+                  adolescentes menores de edad (basado en la creencia de que ese comportamiento es
+                  más apropiado para los adultos).</string>
+    <string name="content_text_2">Miedo a las palabras largas. Esta fobia se caracteriza por la
+                  aversión o nerviosismo en el momento en el cual la persona se involucra en
+                  conversaciones donde se usan palabras largas o poco frecuentes. El trastorno es
+                  causado por el miedo a pronunciar incorrectamente la palabra en cuestión, debido
+                  a que esto representaría para el fóbico la posibilidad de quedar expuesto al
+                  ridículo, de verse en desventaja, ser considerado alguien de cultura inferior o
+                  poca inteligencia frente a sus pares. A menudo esta fobia viene acompañada de
+                  timidez social.</string>
+    <string name="content_text_3">Miedo a abrir los ojos. Los ojos reúnen algunas otras fobias como
+                  la Omatofobia (miedo a los ojos) o la Fotofobia (miedo a la luz por temor a que
+                  afecte a la vista).</string>
+    <string name="content_text_4">Temor a saber o adquirir nuevos conocimientos. Un sofofóbico
+                  nunca descargaría esta aplicación.</string>
+    <string name="image_description_0">Billetes de dinero</string>
+    <string name="image_description_1">Grupo de adolescentes</string>
+    <string name="image_description_2">Palabras al azar</string>
+    <string name="image_description_3">Ojos de mujer con velo</string>
+    <string name="image_description_4">Diccionario abierto</string>
+    <string name="background_description">Losa de piedra color grafito</string>
+</resources>
